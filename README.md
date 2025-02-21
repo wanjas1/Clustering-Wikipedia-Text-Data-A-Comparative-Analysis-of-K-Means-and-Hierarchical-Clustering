@@ -8,20 +8,20 @@ Methodology:
 
 a.) Data Preparation
 
-Retrieve Wikipedia page content for the selected topics.
+> Retrieve Wikipedia page content for the selected topics.
 
-Preprocess the text and construct a TF-IDF-weighted Document Term Matrix to represent the textual data numerically.
+> Preprocess the text and construct a TF-IDF-weighted Document Term Matrix to represent the textual data numerically.
 
 b.) K-Means Clustering
 
-Perform elbow analysis to determine the optimal number of clusters (k) by evaluating the sum of squared distances for k values ranging from 2 to 15.
-Analyze whether the optimal k aligns with the expected number of topic groups.
-Implement K-Means clustering and examine the cluster assignments.
+> Perform elbow analysis to determine the optimal number of clusters (k) by evaluating the sum of squared distances for k values ranging from 2 to 15.
+> Analyze whether the optimal k aligns with the expected number of topic groups.
+> Implement K-Means clustering and examine the cluster assignments.
 
 C.) Hierarchical Clustering
 
-Apply Agglomerative Clustering with k set to the expected number of topic groups.
-Evaluate the clustering output and assess its alignment with the expected classification of topics.
+> Apply Agglomerative Clustering with k set to the expected number of topic groups.
+> Evaluate the clustering output and assess its alignment with the expected classification of topics.
 
 Findings & Observations
 
