@@ -1,5 +1,7 @@
 # Clustering-Wikipedia-Text-Data-A-Comparative-Analysis-of-K-Means-and-Hierarchical-Clustering
 
+Photo by <a href="https://unsplash.com/@lukechesser?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Luke Chesser</a> on <a href="https://unsplash.com/photos/wikipedia-page-screenshot-D8QbsYyiFmw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
 Project Overview
 
 This project explores text clustering techniques using web-based content retrieved from Wikipedia. The dataset consists of 40 Wikipedia pages categorized into four general topics: artificial intelligence, sports, college majors/courses, and animals. The goal is to apply unsupervised machine learning methods to analyze the underlying structure of the textual data and evaluate how well clustering techniques can organize documents into their expected topical groups.
