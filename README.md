@@ -1,5 +1,8 @@
 # Clustering-Wikipedia-Text-Data-A-Comparative-Analysis-of-K-Means-and-Hierarchical-Clustering
 
+![wikiped](https://github.com/user-attachments/assets/b6609a49-fa13-484a-99f1-27fc10e686e1)
+
+
 Photo by <a href="https://unsplash.com/@lukechesser?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Luke Chesser</a> on <a href="https://unsplash.com/photos/wikipedia-page-screenshot-D8QbsYyiFmw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
       
 Project Overview
